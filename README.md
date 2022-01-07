@@ -7,14 +7,11 @@
 
 
 
-<h4>前端
-<p align="center">
+
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
   
-  
-  
-  </p>
 </h4>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,5 +34,7 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-
+https://img.shields.io/badge/JAVASCRIPT-ES6-yellow
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ES6-F7DF1E?logo=javascript)
+![SCSS](https://img.shields.io/badge/sass-v.43.3-CC6699?logo=sass)
 
